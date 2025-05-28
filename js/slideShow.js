@@ -1,10 +1,11 @@
 <script>
   // Dados dos slides
   const slidesData = [
-    { type: 'image', src: 'A.png' },
-    { type: 'image', src: 'B.jpeg' },
-    { type: 'image', src: 'C.jpeg' },
-    {
+const slidesData = [
+  { type: 'image', src: 'Imagens/A.png' },
+  { type: 'image', src: 'Imagens/B.jpeg' },
+  { type: 'image', src: 'Imagens/C.jpeg' },
+  {
       type: 'video',
       title: 'Conheça os desafios de inovação - IFSP',
       src: 'https://www.youtube.com/embed/5g5LQe3m8Po'
